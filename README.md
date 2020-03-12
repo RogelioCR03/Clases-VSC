@@ -1,5 +1,9 @@
 # Practicas-de-clase
 
-[Practica del 19/02/2020](./Listas/Program.cs)
+[List](./Listas/Program.cs)
 
-[Practica del 24/02/2020](./Usuario/Program.cs)
+[Usuario](./Usuario/Program.cs)
+
+[Anonymous](./Anonymous/Program.cs)
+
+[Parametros](./Parametros/Program.cs)
