@@ -61,11 +61,6 @@ class Program
         Console.WriteLine(item);
 
         Console.WriteLine(pila.Pop());
-        Console.WriteLine(pila.Pop());
-        Console.WriteLine(pila.Pop());
-        Console.WriteLine(pila.Pop());
-        Console.WriteLine(pila.Pop());
-        Console.WriteLine(pila.Pop());
 
         foreach (int item in pila.m_Items)
         Console.WriteLine(item);
